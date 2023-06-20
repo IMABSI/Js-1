@@ -24,6 +24,7 @@ var y_answ2=+prompt(prb2+'?')
 var y_answ3=+prompt(prb3+'?')
 var y_answ4=+prompt(prb4+'?')
 var y_answ5=+prompt(prb5+'?')
+alert("Откройте консоль")
 ///////////////////////////
 console.log(_1+example+prb1+(1+1)+answer+y_answ1);
 console.log(_2+example+prb2+(1000-7)+answer+y_answ2);
